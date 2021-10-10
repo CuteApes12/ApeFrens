@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ApeFrens/static/css/main.c4ede9fa.chunk.css",
+    "main.js": "/ApeFrens/static/js/main.afb85241.chunk.js",
+    "main.js.map": "/ApeFrens/static/js/main.afb85241.chunk.js.map",
+    "runtime-main.js": "/ApeFrens/static/js/runtime-main.e5664bcf.js",
+    "runtime-main.js.map": "/ApeFrens/static/js/runtime-main.e5664bcf.js.map",
+    "static/js/2.b49ac6fb.chunk.js": "/ApeFrens/static/js/2.b49ac6fb.chunk.js",
+    "static/js/2.b49ac6fb.chunk.js.map": "/ApeFrens/static/js/2.b49ac6fb.chunk.js.map",
+    "static/js/3.b1215bd8.chunk.js": "/ApeFrens/static/js/3.b1215bd8.chunk.js",
+    "static/js/3.b1215bd8.chunk.js.map": "/ApeFrens/static/js/3.b1215bd8.chunk.js.map",
+    "index.html": "/ApeFrens/index.html",
+    "static/css/main.c4ede9fa.chunk.css.map": "/ApeFrens/static/css/main.c4ede9fa.chunk.css.map",
+    "static/js/2.b49ac6fb.chunk.js.LICENSE.txt": "/ApeFrens/static/js/2.b49ac6fb.chunk.js.LICENSE.txt",
+    "static/media/1.75f03515.png": "/ApeFrens/static/media/1.75f03515.png",
+    "static/media/reset.css": "/ApeFrens/static/media/PressStart2P-Regular.f2341734.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5664bcf.js",
+    "static/js/2.b49ac6fb.chunk.js",
+    "static/css/main.c4ede9fa.chunk.css",
+    "static/js/main.afb85241.chunk.js"
+  ]
+}
